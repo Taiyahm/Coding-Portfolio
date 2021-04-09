@@ -1,4 +1,4 @@
-# Coding-Portfolio
+# My-Portfolio
 
 The assignment was to build a portfoilo from scratch that contains... 
 
