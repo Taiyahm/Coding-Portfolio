@@ -1,0 +1,11 @@
+
+
+.navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
