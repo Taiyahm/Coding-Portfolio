@@ -8,5 +8,5 @@ The assignment was to build a portfoilo from scratch that contains...
 * When the images are clicked the user is taken to a deployed application.
 
 ##  Deployed Link
-
+https://taiyahm.github.io/My-Portfolio/
 
